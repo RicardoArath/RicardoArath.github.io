@@ -1,0 +1,36 @@
+#,nombre_campo,longitud,tipo,nemonico,catalogo,rango_claves
+1,Entidad de registro.,2,C,ent_regis,catemlm24,01..32
+2,Municipio o alcaldía de registro.,3,C,mun_regis,catemlm24,001..570
+3,Localidad de registro.,4,C,loc_regis,catemlm24,"0001..6999,7777,9999"
+4,Tamaño de localidad de registro.,2,N,tam_loc_re,tamaño_localidad,"1..17,99"
+5,Día de registro.,2,N,dia_regis,dia,"1..31,99"
+6,Mes de registro.,2,N,mes_regis,mes,"1..12,99"
+7,Año de registro.,4,N,anio_regis,año,2024
+8,Régimen matrimonial.,1,N,regimen_ma,regimen_matrimonial,"1,2,3,9"
+9,Género de matrimonio.,1,N,genero,genero,"1,2"
+10,Sexo del primer contrayente.,1,N,sexo_con1,condicion_biologica,"1,2"
+11,Edad del primer contrayente.,2,N,edad_con1,edad,12..99
+12,Nacionalidad del primer contrayente.,1,N,naci_con1,nacionalidad,"1,2"
+13,Ocupación del primer contrayente.,2,N,ocup_con1,ocupacion,"1..11,97,98,99"
+14,Entidad de residencia habitual del primer contrayente.,2,C,entrh_con1,catemlm24,"01..35,99"
+15,Municipio o alcaldía de residencia habitual del primer contrayente.,3,C,munrh_con1,catemlm24,"001..570,999"
+16,Localidad de residencia habitual del primer contrayente.,4,C,locrh_con1,catemlm24,"0001..6999,7777,9999"
+17,Tamaño de localidad de residencia habitual del primer contrayente.,2,N,tlorh_con1,tamaño_localidad,"1..17,99"
+18,Nivel de escolaridad del primer contrayente (escolaridad).,1,N,escol_con1,escolaridad,1..9
+19,Condición de actividad económica del primer contrayente.,1,N,conactcon1,contrayente_trabaja,"1,2,9"
+20,Situación laboral del primer contrayente.,1,N,sitlabcon1,situacion_laboral_contrayente,"1..6,9"
+21,Posición en el trabajo del primer contrayente.,1,N,postracon1,posicion_trabajo_contrayente,"1..6, 9"
+22,Sexo del segundo contrayente.,1,N,sexo_con2,condicion_biologica,"1,2"
+23,Edad del segundo contrayente.,2,N,edad_con2,edad,12..99
+24,Nacionalidad del segundo contrayente.,1,N,naci_con2,nacionalidad,"1,2"
+25,Ocupación del segundo contrayente.,2,N,ocup_con2,ocupacion,"1..11,97,98,99"
+26,Entidad de residencia habitual del segundo contrayente.,2,C,entrh_con2,catemlm24,"01..35,99"
+27,Municipio o alcaldía de residencia habitual del segundo contrayente.,3,C,munrh_con2,catemlm24,"001..570,999"
+28,Localidad de residencia habitual del segundo contrayente.,4,C,locrh_con2,catemlm24,"0001..6999,7777,9999"
+29,Tamaño de localidad de residencia habitual del segundo contrayente.,2,N,tlorh_con2,tamaño_localidad,"1..17,99"
+30,Nivel de escolaridad del segundo contrayente (escolaridad).,1,N,escol_con2,escolaridad,1..9
+31,Condición de actividad económica del segundo contrayente.,1,N,conactcon2,contrayente_trabaja,"1,2,9"
+32,Situación laboral del segundo contrayente.,1,N,sitlabcon2,situacion_laboral_contrayente,"1..6,9"
+33,Posición en el trabajo del segundo contrayente.,1,N,postracon2,posicion_trabajo_contrayente,"1..6,9"
+34,Tipo de contrayente.,1,N,tipo_con,tipo_contrayentes,"1,2,3"
+35,Distrito de registro de Oaxaca.,3,N,dis_re_oax,catemlm24,"901..930,999"

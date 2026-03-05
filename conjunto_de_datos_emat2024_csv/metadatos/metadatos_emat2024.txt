@@ -1,0 +1,41 @@
+Identifier: MEX-INEGI.ESD5.03-EMAT-2024
+
+Title: Estadística de Matrimonios 2024
+
+Description: En México la estadística de matrimonios se obtiene a partir de las actas que sobre este hecho levanta el Registro Civil.
+
+El matrimonio se caracteriza principalmente por establecer un vínculo conyugal entre sus miembros que serán dos individuos de diferente o del mismo sexo. Esta unión no solo goza del reconocimiento social, sino que además se encuentra reconocido legalmente a través de la pertinente disposición jurídica.
+
+Formalizar las uniones por medio del registro ante las autoridades correspondientes proporciona la prueba de que se ha formalizado el matrimonio con el propósito de: establecer la inviolabilidad de este como institución social.
+
+El matrimonio es la sociedad más antigua de la humanidad, está considerado como la base de la familia y representa una de las instituciones más arraigadas en la conciencia de todos los pueblos.
+
+El registro de matrimonios permite conocer el volumen de uniones que se legalizan en nuestro país y caracterizar sociodemográficamente a los contrayentes mediante variables como: edad, nivel de escolaridad, medio urbano o rural.
+
+Desde el punto de vista demográfico, el registro del estado civil de las personas y la formación y disolución de uniones conyugales, proporcionan información que es útil para llevar a cabo estudios como el de la nupcialidad, que nos permite hacer una cuantificación sobre la multiplicación de familias y a partir de esto, analizar las pautas del comportamiento económico, social y reproductivo que en conjunto afectan de distinta manera el contexto sociodemográfico del país, además con el registro de los matrimonios es posible identificar casos en los que los contrayentes están realizando segundas o terceras nupcias, tema que hoy día se considera fundamental para entender los procesos de cambio en la formación, composición y organización de las familias.
+
+México en la medida de lo posible se apega a las normas, conceptos y procedimientos que dicta la Organización de las Naciones Unidas (ONU) que están contenidos en el documento vigente "Principios y Recomendaciones para el sistema de Estadísticas Vitales", revisión 2.
+
+En el INEGI la Unidad de Estadísticas Sociodemográficas realiza esfuerzos para cuidar el seguimiento, la unificación de criterios y procedimientos dentro de la generación de las estadísticas vitales que cumplan con los principios rectores de cobertura universal, continuidad, confidencialidad y difusión regular.
+
+Modified: 2025-09-29
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/1132/data-dictionary
+
+Keyword: "civil", "cónyuge", "conyugal", "esposa", "esposo", "estado", "institución", "matrimonio", "matrimonial", "nupcialidad", "población", "registro", "unión"
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2024-01-01-2024-12-31
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anualmente
+
+Distribution: https://www.inegi.org.mx/programas/emat/
